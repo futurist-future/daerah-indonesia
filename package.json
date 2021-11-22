@@ -4,6 +4,7 @@
   "version": "1.0.1",
   "description": "Data daerah-daerah di Indonesia. Daerah yang tercakup meliputi Provinsi, Kabupaten.Kota, Kecamatan, dan Kelurahan",
   "main": "index.js",
+  "types": "./index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
